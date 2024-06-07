@@ -1,0 +1,14 @@
+input,
+label,
+fieldset {
+  text-align: center;
+}
+
+input,
+label {
+  width: 90%;
+  margin-bottom: 10px;
+}
+body {
+  text-align: center;
+}
